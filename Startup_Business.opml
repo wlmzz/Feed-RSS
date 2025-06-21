@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<opml version="1.0">
+  <head>
+    <title>Startup &amp; Innovation</title>
+  </head>
+  <body>
+    <outline text="Startup &amp; Innovation" title="Startup &amp; Innovation">
+      <outline type="rss" text="Tech.eu" title="Tech.eu" xmlUrl="https://tech.eu/feed/"/>
+      <outline type="rss" text="Crunchbase News" title="Crunchbase News" xmlUrl="https://news.crunchbase.com/feed/"/>
+      <outline type="rss" text="Sifted.eu" title="Sifted.eu" xmlUrl="https://sifted.eu/feed/"/>
+      <outline type="rss" text="Startups.com Blog" title="Startups.com Blog" xmlUrl="https://www.startups.com/community/feed"/>
+      <outline type="rss" text="AngelList Blog" title="AngelList Blog" xmlUrl="https://angel.co/blog.rss"/>
+      <outline type="rss" text="Product Hunt Blog" title="Product Hunt Blog" xmlUrl="https://blog.producthunt.com/feed"/>
+      <outline type="rss" text="Y Combinator Blog" title="Y Combinator Blog" xmlUrl="https://blog.ycombinator.com/feed/"/>
+      <outline type="rss" text="Seedrs News" title="Seedrs News" xmlUrl="https://www.seedrs.com/learn/blog/feed"/>
+      <outline type="rss" text="EU-Startups" title="EU-Startups" xmlUrl="https://www.eu-startups.com/feed/"/>
+      <outline type="rss" text="BetaKit" title="BetaKit" xmlUrl="https://betakit.com/feed/"/>
+    </outline>
+  </body>
+</opml>

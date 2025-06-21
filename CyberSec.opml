@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<opml version="1.0">
+  <head>
+    <title>CyberSecurity</title>
+  </head>
+  <body>
+    <outline text="CyberSecurity" title="CyberSecurity">
+      <outline type="rss" text="The Hacker News" title="The Hacker News" xmlUrl="https://feeds.feedburner.com/TheHackersNews?format=xml"/>
+      <outline type="rss" text="Graham Cluley" title="Graham Cluley" xmlUrl="https://grahamcluley.com/feed/"/>
+      <outline type="rss" text="Schneier on Security" title="Schneier on Security" xmlUrl="https://www.schneier.com/feed/atom/"/>
+      <outline type="rss" text="Krebs on Security" title="Krebs on Security" xmlUrl="https://krebsonsecurity.com/feed"/>
+      <outline type="rss" text="SANS Internet Storm Center" title="SANS Internet Storm Center" xmlUrl="https://isc.sans.edu/rssfeed_full.xml"/>
+      <outline type="rss" text="Securelist" title="Securelist" xmlUrl="https://securelist.com/feed/"/>
+      <outline type="rss" text="Sophos Threat Research" title="Sophos Threat Research" xmlUrl="https://news.sophos.com/en-us/category/threat-research/feed/"/>
+      <outline type="rss" text="Cyber Security Hub" title="Cyber Security Hub" xmlUrl="https://www.cshub.com/rss-feeds"/>
+      <outline type="rss" text="UK NCSC" title="UK NCSC" xmlUrl="https://www.ncsc.gov.uk/api/1/services/v1/news-rss-feed.xml"/>
+      <outline type="rss" text="German BSI" title="German BSI" xmlUrl="https://www.bsi.bund.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed/RSSNewsfeed.xml"/>
+      <outline type="rss" text="CISA Advisories" title="CISA Advisories" xmlUrl="https://www.cisa.gov/sites/default/files/feeds/cisa-alerts.xml"/>
+      <outline type="rss" text="Dark Reading" title="Dark Reading" xmlUrl="https://www.darkreading.com/rss.xml"/>
+      <outline type="rss" text="Threatpost" title="Threatpost" xmlUrl="https://threatpost.com/feed/"/>
+      <outline type="rss" text="BleepingComputer" title="BleepingComputer" xmlUrl="https://www.bleepingcomputer.com/feed/"/>
+    </outline>
+  </body>
+</opml>

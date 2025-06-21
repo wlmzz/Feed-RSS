@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<opml version="1.0">
+  <head>
+    <title>Tech</title>
+  </head>
+  <body>
+    <outline text="Tech" title="Tech">
+      <outline type="rss" text="The Register" title="The Register" xmlUrl="https://www.theregister.com/headlines.atom"/>
+      <outline type="rss" text="TechRadar" title="TechRadar" xmlUrl="https://www.techradar.com/rss"/>
+      <outline type="rss" text="Estonian World Tech" title="Estonian World Tech" xmlUrl="https://estonianworld.com/feed/"/>
+      <outline type="rss" text="Dutch IT Channel" title="Dutch IT Channel" xmlUrl="https://www.dutchitchannel.nl/rss"/>
+      <outline type="rss" text="Techzine EU" title="Techzine EU" xmlUrl="https://www.techzine.eu/feed/"/>
+      <outline type="rss" text="EU Startups" title="EU Startups" xmlUrl="https://www.eu-startups.com/feed/"/>
+      <outline type="rss" text="Silicon Republic" title="Silicon Republic" xmlUrl="https://www.siliconrepublic.com/feed"/>
+      <outline type="rss" text="TechCrunch" title="TechCrunch" xmlUrl="http://feeds.feedburner.com/TechCrunch/"/>
+      <outline type="rss" text="The Verge" title="The Verge" xmlUrl="https://www.theverge.com/rss/index.xml"/>
+      <outline type="rss" text="Wired" title="Wired" xmlUrl="http://feeds.wired.com/wired/index"/>
+      <outline type="rss" text="iSpazio" title="iSpazio" xmlUrl="https://www.ispazio.net/feed/"/>
+      <outline type="rss" text="HDblog" title="HDblog" xmlUrl="https://www.hdblog.it/rss"/>
+      <outline type="rss" text="SmartWorld" title="SmartWorld" xmlUrl="https://www.smartworld.it/feed/"/>
+    </outline>
+  </body>
+</opml>

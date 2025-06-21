@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<opml version="1.0">
+  <head>
+    <title>UK News</title>
+  </head>
+  <body>
+    <outline text="UK News" title="UK News">
+      <outline type="rss" text="BBC News (UK)" title="BBC News (UK)" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml"/>
+      <outline type="rss" text="The Guardian UK" title="The Guardian UK" xmlUrl="https://www.theguardian.com/uk/rss"/>
+      <outline type="rss" text="The Independent" title="The Independent" xmlUrl="https://www.independent.co.uk/news/uk/rss"/>
+      <outline type="rss" text="Sky News UK" title="Sky News UK" xmlUrl="https://feeds.skynews.com/feeds/rss/home.xml"/>
+      <outline type="rss" text="Financial Times UK" title="Financial Times UK" xmlUrl="https://www.ft.com/?format=rss"/>
+      <outline type="rss" text="Metro UK" title="Metro UK" xmlUrl="https://metro.co.uk/feed/"/>
+      <outline type="rss" text="Daily Mail UK" title="Daily Mail UK" xmlUrl="https://www.dailymail.co.uk/articles.rss"/>
+      <outline type="rss" text="Evening Standard UK" title="Evening Standard UK" xmlUrl="https://www.standard.co.uk/news/rss"/>
+      <outline type="rss" text="The Telegraph UK" title="The Telegraph UK" xmlUrl="https://www.telegraph.co.uk/news/rss.xml"/>
+      <outline type="rss" text="Mirror UK" title="Mirror UK" xmlUrl="https://www.mirror.co.uk/news/uk-news/rss.xml"/>
+    </outline>
+  </body>
+</opml>

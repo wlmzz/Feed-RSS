@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<opml version="1.0">
+  <head>
+    <title>ITA News</title>
+  </head>
+  <body>
+    <outline text="News ITA Full" title="News ITA Full">
+      <outline type="rss" text="ITA - ANSA" title="ITA - ANSA" xmlUrl="https://www.ansa.it/sito/ansait_rss.xml"/>
+      <outline type="rss" text="ITA - La Repubblica" title="ITA - La Repubblica" xmlUrl="https://www.repubblica.it/rss/homepage/rss2.0.xml"/>
+      <outline type="rss" text="ITA - La Stampa" title="ITA - La Stampa" xmlUrl="https://www.lastampa.it/rss/copertina.xml"/>
+      <outline type="rss" text="ITA - Il Sole 24 Ore" title="ITA - Il Sole 24 Ore" xmlUrl="https://www.ilsole24ore.com/rss/italia.xml"/>
+      <outline type="rss" text="ITA - MilanoToday" title="ITA - MilanoToday" xmlUrl="https://www.milanotoday.it/rss/"/>
+      <outline type="rss" text="ITA - La Provincia di Como" title="ITA - La Provincia di Como" xmlUrl="https://www.laprovinciadicomo.it/rss/homepage/"/>
+      <outline type="rss" text="ITA - Il Cittadino Monza e Brianza" title="ITA - Il Cittadino Monza e Brianza" xmlUrl="https://www.ilcittadinomb.it/rss/feed.xml"/>
+      <outline type="rss" text="ITA - Sky TG24" title="ITA - Sky TG24" xmlUrl="https://tg24.sky.it/rss/homepage"/>
+      <outline type="rss" text="ITA - Il Post" title="ITA - Il Post" xmlUrl="https://www.ilpost.it/feed/"/>
+      <outline type="rss" text="ITA - Fanpage" title="ITA - Fanpage" xmlUrl="https://www.fanpage.it/rss/"/>
+      <outline type="rss" text="ITA - Wired Italia" title="ITA - Wired Italia" xmlUrl="https://www.wired.it/rss"/>
+      <outline type="rss" text="ITA - StartupItalia" title="ITA - StartupItalia" xmlUrl="https://startupitalia.eu/feed"/>
+    </outline>
+  </body>
+</opml>

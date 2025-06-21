@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<opml version="1.0">
+  <head>
+    <title>World News</title>
+  </head>
+  <body>
+    <outline text="World News" title="World News">
+      <outline type="rss" text="BBC News" title="BBC News" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml"/>
+      <outline type="rss" text="Reuters World News" title="Reuters World News" xmlUrl="http://feeds.reuters.com/Reuters/worldNews"/>
+      <outline type="rss" text="Al Jazeera English" title="Al Jazeera English" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml"/>
+      <outline type="rss" text="The Guardian World" title="The Guardian World" xmlUrl="https://www.theguardian.com/world/rss"/>
+      <outline type="rss" text="CBC News World" title="CBC News World" xmlUrl="https://www.cbc.ca/cmlink/rss-world"/>
+      <outline type="rss" text="ABC News – International" title="ABC News – International" xmlUrl="https://abcnews.go.com/abcnews/internationalheadlines"/>
+      <outline type="rss" text="Deutsche Welle (English)" title="Deutsche Welle (English)" xmlUrl="https://rss.dw.com/xml/rss-en"/>
+      <outline type="rss" text="France 24 English" title="France 24 English" xmlUrl="https://www.france24.com/en/rss"/>
+      <outline type="rss" text="Japan Times" title="Japan Times" xmlUrl="https://www.japantimes.co.jp/rss/news.xml"/>
+      <outline type="rss" text="Times of India (World)" title="Times of India (World)" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/296589292.cms"/>
+      <outline type="rss" text="CNN International" title="CNN International" xmlUrl="http://rss.cnn.com/rss/edition_world.rss"/>
+      <outline type="rss" text="AP News (World)" title="AP News (World)" xmlUrl="https://apnews.com/apf-world-news/feed"/>
+    </outline>
+  </body>
+</opml>

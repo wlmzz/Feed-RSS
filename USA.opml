@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<opml version="1.0">
+  <head>
+    <title>USA</title>
+  </head>
+  <body>
+    <outline text="USA News" title="USA News">
+      <outline type="rss" text="The New York Times" title="The New York Times" xmlUrl="https://feeds.nytimes.com/nyt/rss/HomePage"/>
+      <outline type="rss" text="CNN Top Stories" title="CNN Top Stories" xmlUrl="http://rss.cnn.com/rss/cnn_topstories.rss"/>
+      <outline type="rss" text="USA Today" title="USA Today" xmlUrl="http://rssfeeds.usatoday.com/usatoday-NewsTopStories"/>
+      <outline type="rss" text="The Washington Post (Highlights)" title="The Washington Post (Highlights)" xmlUrl="http://www.washingtonpost.com/rss/"/>
+      <outline type="rss" text="The New York Times Business" title="The New York Times Business" xmlUrl="http://rss.nytimes.com/services/xml/rss/nyt/Business.xml"/>
+      <outline type="rss" text="Reuters Business News" title="Reuters Business News" xmlUrl="http://feeds.reuters.com/reuters/businessNews"/>
+      <outline type="rss" text="Wired" title="Wired" xmlUrl="http://feeds.wired.com/wired/index"/>
+      <outline type="rss" text="USA - NYT" title="USA - NYT" xmlUrl="https://feeds.nytimes.com/nyt/rss/HomePage"/>
+      <outline type="rss" text="USA - CNN" title="USA - CNN" xmlUrl="http://rss.cnn.com/rss/cnn_topstories.rss"/>
+      <outline type="rss" text="USA - USA Today" title="USA - USA Today" xmlUrl="http://rssfeeds.usatoday.com/usatoday-NewsTopStories"/>
+      <outline type="rss" text="USA - Washington Post" title="USA - Washington Post" xmlUrl="http://www.washingtonpost.com/rss/"/>
+      <outline type="rss" text="Financial Times" title="Financial Times" xmlUrl="https://www.ft.com/?format=rss"/>
+    </outline>
+  </body>
+</opml>

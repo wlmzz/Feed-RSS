@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<opml version="1.0">
+  <head>
+    <title>Sports News</title>
+  </head>
+  <body>
+    <outline text="Sports News" title="Sports News">
+      <outline type="rss" text="ESPN Top Headlines" title="ESPN Top Headlines" xmlUrl="https://www.espn.com/espn/rss/news"/>
+      <outline type="rss" text="BBC Sport" title="BBC Sport" xmlUrl="http://feeds.bbci.co.uk/sport/rss.xml?edition=uk"/>
+      <outline type="rss" text="Sky Sports News" title="Sky Sports News" xmlUrl="http://www.skysports.com/rss/12040"/>
+      <outline type="rss" text="CBS Sports" title="CBS Sports" xmlUrl="https://www.cbssports.com/rss/headlines"/>
+      <outline type="rss" text="Yahoo Sports" title="Yahoo Sports" xmlUrl="https://sports.yahoo.com/rss/"/>
+      <outline type="rss" text="The Guardian Sport" title="The Guardian Sport" xmlUrl="https://www.theguardian.com/uk/sport/rss"/>
+      <outline type="rss" text="Goal.com International" title="Goal.com International" xmlUrl="https://www.goal.com/en/feeds/news?fmt=rss"/>
+      <outline type="rss" text="Bleacher Report" title="Bleacher Report" xmlUrl="https://bleacherreport.com/articles/feed"/>
+      <outline type="rss" text="Fox Sports" title="Fox Sports" xmlUrl="https://feeds.foxsports.com/foxsports/latest"/>
+      <outline type="rss" text="Reuters Sports News" title="Reuters Sports News" xmlUrl="http://feeds.reuters.com/reuters/sportsNews"/>
+    </outline>
+  </body>
+</opml>

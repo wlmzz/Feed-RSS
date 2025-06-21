@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<opml version="1.0">
+  <head>
+    <title>Finance and Economy</title>
+  </head>
+  <body>
+    <outline text="Finance and Economy" title="Finance and Economy">
+      <outline type="rss" text="Bloomberg Markets" title="Bloomberg Markets" xmlUrl="https://www.bloomberg.com/feed/podcast/etf-report.xml"/>
+      <outline type="rss" text="CNBC Top News" title="CNBC Top News" xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html"/>
+      <outline type="rss" text="Financial Times" title="Financial Times" xmlUrl="https://www.ft.com/?format=rss"/>
+      <outline type="rss" text="Investing.com News" title="Investing.com News" xmlUrl="https://www.investing.com/rss/news.rss"/>
+      <outline type="rss" text="MarketWatch" title="MarketWatch" xmlUrl="https://www.marketwatch.com/rss/topstories"/>
+      <outline type="rss" text="The Economist (Blogs)" title="The Economist (Blogs)" xmlUrl="https://www.economist.com/latest/rss.xml"/>
+      <outline type="rss" text="Forbes - Money" title="Forbes - Money" xmlUrl="https://www.forbes.com/money/feed/"/>
+      <outline type="rss" text="Reuters Business News" title="Reuters Business News" xmlUrl="http://feeds.reuters.com/reuters/businessNews"/>
+      <outline type="rss" text="Yahoo Finance" title="Yahoo Finance" xmlUrl="https://finance.yahoo.com/news/rssindex"/>
+      <outline type="rss" text="WSJ Markets" title="WSJ Markets" xmlUrl="https://feeds.a.dj.com/rss/RSSMarketsMain.xml"/>
+    </outline>
+  </body>
+</opml>
