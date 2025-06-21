@@ -1,4 +1,3 @@
-# Feed-RSS
 # 🌐 RSS Feed Collections — Curated OPML Files
 
 This repository contains curated collections of RSS feeds grouped by country, language, and topic. Each `.opml` file can be imported into any RSS reader (e.g., Feedly, Inoreader, NetNewsWire) to stay up-to-date with the latest news, trends, and insights.
